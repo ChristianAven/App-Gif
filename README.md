@@ -6,14 +6,10 @@ Cristian David Saldaña Villegas
 # Instalar dependecias de npm
 Ejecutar el comando `npm install` para instalar las dependencias
 
-#### Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Este proyecto se inicializo con [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+#Ejecutar el proyecto en el localhost
+Ejecutar el comando `npm start`
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Este comando correrá el codigo en modo desarrollador.\
+Abrir [http://localhost:3000](http://localhost:3000) en el buscador.
