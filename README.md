@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+# Integrantes
+Christian David Avendaño Mora
+Cristian David Saldaña Villegas
 
+# Instalar dependecias de npm
+Ejecutar el comando [npm install] para instalar las dependencias
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
